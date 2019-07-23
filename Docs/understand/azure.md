@@ -2,6 +2,7 @@
 
 Before using the Azure Virtual Datacenter Automation Toolkit, we recommend that you familiarize yourself with the following core Azure technologies and services:
 
+- [Azure DevOps][]
 - [Azure Resource Manager][]
 - [Azure Resource Manager Templates][]
 - [Azure CLI][]
@@ -16,6 +17,7 @@ In addition to these, you should also be familiar with any Azure services you wi
 Learn about the [Understanding the Automation Toolkit](toolkit.md).
 
 <!-- Links -->
+[Azure DevOps]: https://azure.microsoft.com/services/devops/
 [Azure Resource Manager]: https://docs.microsoft.com/azure/azure-resource-manager/resource-group-overview
 [Azure Resource Manager Templates]: https://docs.microsoft.com/azure/azure-resource-manager/resource-group-authoring-templates
 [Azure CLI]: https://docs.microsoft.com/cli/azure/overview?view=azure-cli-latest
